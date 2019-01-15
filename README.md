@@ -1,5 +1,7 @@
 # File-Convertor
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![HitCount](http://hits.dwyl.io/navchandar/File-Convertor.svg)](http://hits.dwyl.io/navchandar/File-Convertor)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)]
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![HitCount](http://hits.dwyl.io/navchandar/File-Convertor.svg)](http://hits.dwyl.io/navchandar/File-Convertor)
 
 Convert one file format into another using Python.
 
