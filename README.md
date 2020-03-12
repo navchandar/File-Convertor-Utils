@@ -1,11 +1,11 @@
-# File-Convertor
+# File Convertor Utils
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/navchandar)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![HitCount](http://hits.dwyl.io/navchandar/File-Convertor.svg)](http://hits.dwyl.io/navchandar/File-Convertor) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T617N9I)
 
-Convert one file format into another using Python scripts.
+Convert one file format into another using Python scripts. Each script provides methods to enable single/multi file conversions.
 
 ### Features
  - Excel to String
