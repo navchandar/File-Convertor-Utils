@@ -17,11 +17,11 @@ Convert one file format into another using Python scripts. Each script provides 
  - XML to Excel
 
 ### Dependencies
-  * Image processing requires PIL.
-  * Video conversion requires FFMPEG.
-  * XML parsing requires lxml.
-  * Excel parsing requires openpyxl and pandas.
-  * PDF conversion requires PyPDF2.
+  * Image processing requires [PIL](https://pypi.org/project/Pillow/).
+  * Video conversion requires [FFMPEG](https://ffmpeg.zeranoe.com/builds/).
+  * XML parsing requires [lxml](https://pypi.org/project/lxml/).
+  * Excel parsing requires [openpyxl](https://pypi.org/project/openpyxl/) and [pandas](https://pypi.org/project/pandas/).
+  * PDF conversion requires [PyPDF2](https://pypi.org/project/PyPDF2/).
 
 ### Development
 Want to contribute? Great!
